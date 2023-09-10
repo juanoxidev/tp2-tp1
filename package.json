@@ -1,0 +1,14 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
